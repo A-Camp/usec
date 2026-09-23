@@ -1,0 +1,123 @@
+.site-header {
+  text-align: center;
+  background: #350E20;
+}
+
+.site-header {
+  position: relative;
+  margin-bottom: 50px;
+}
+
+a {
+  color: #155F83;
+}
+
+a:hover {
+  color: #5B8FA8;
+}
+
+.site-branding {
+  position: relative;
+  padding: 20px 0 0px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 800px 100%;
+}
+
+.site-branding.has-header {
+  min-height: 67px;
+}
+
+.conf-title {
+  margin: 0 30px;
+  font-size: 44px;
+  color: #fff;
+}
+
+.conf-desc {
+  margin: 10px 0 30px;
+  color: #ddd;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.clearfix:after, .article-wrapper:after, .main-navigation ul:after, .site-footer:after, .comment-body:after, .site-main .gallery:after {
+  clear: both;
+}
+
+.navbar-fixed-top { transition: all 0s ease; margin-bottom: 20px }
+
+.logo-transition { transition: all 3s ease; }
+
+.nav-date {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 20px;
+    font-weight: bold;
+    margin-right: 20px;
+    float:right;
+}
+
+h2 {
+    line-height:1.5em;
+}
+
+h4{
+    margin-top: 30px;
+    margin-left: 12px;
+    font-weight: bold;
+    line-height:1.3em;
+    color: #0F425C;
+}
+
+p{
+    margin-left: 12px;
+}
+
+ul {
+    margin-top: -5px;
+}
+
+ul > li {
+    line-height: 1.7em;
+}
+
+td {
+    padding-right: 20px;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.row {
+    margin-bottom: -30px;
+}
+
+hr {
+    border-color: #CCC;
+}
+
+.collapsible {
+  margin: auto;
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}

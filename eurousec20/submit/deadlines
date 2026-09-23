@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="google" content="notranslate">
+<link rel="stylesheet" type="text/css" href="stylesheets/style.css?mtime=1578965770">
+<link rel="icon" type="image/png" href="images/review24.png">
+<title>Deadlines - EuroUSEC 2020</title>
+</head>
+<body id="body-deadlines">
+<div id="top"><div id="header-site" class="header-site-page"><a class="qq" href="/submit/"><span class="header-site-name">EuroUSEC 2020</span> Home</a></div><div id="header-right"><div id="header-deadline" class="hidden"></div></div><div id="header-page"><h1>Deadlines</h1></div>  <hr class="c">
+<div id="msgs-initial">
+</div></div>
+<div id="body" class="body">
+<dl>
+<dt><strong>Registration deadline</strong>: Wednesday 3 Jun 2020 7:59:59am EDT<span class="usertime hidden need-usertime" data-time="1591185599"></span></dt>
+<dd>You can register new submissions until this deadline.<br /></dd><dt><strong>Submission deadline</strong>: Saturday 6 Jun 2020 7:59:59am EDT<span class="usertime hidden need-usertime" data-time="1591444799"></span></dt>
+<dd>Submissions must be ready by this deadline to be reviewed.<br /></dd></table>
+<hr class="c"></div><div id="footer"><a class="uu" href="https://hotcrp.com/">HotCRP</a><!-- Version 2.102 --></div><!--[if lt IE 9]><script src="scripts/jquery-1.12.4.min.js?mtime=1578965770"></script><![endif]-->
+<![if !IE|gte IE 9]><script src="scripts/jquery-3.4.1.min.js?mtime=1578965770"></script><![endif]>
+<script>siteurl="";siteurl_base_path="\/submit\/";siteurl_suffix="";siteurl_postvalue=".empty";siteurl_cookie_params="";assetsurl="";hotcrp_user={};</script><script src="scripts/script.js?mtime=1578965770"></script>
+<script>hotcrp_load.time(240,0);hotcrp_deadlines.init({"now":1598918046,"email":null,"sub":{"open":true,"sub":1591444799,"reg":1591185599,"blind":true},"final":{"open":true,"done":1593086399,"ishard":true}})</script></body>
+</html>

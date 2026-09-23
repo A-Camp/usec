@@ -1,0 +1,145 @@
+.site-header {
+    text-align: center;
+    background: #7a9b31;
+}
+
+.site-header {
+    position: relative;
+}
+
+.header-title {
+    padding-bottom: 20px;
+}
+
+a {
+    color: #155F83;
+}
+
+a:hover {
+    color: #5B8FA8;
+}
+
+.site-branding {
+    position: relative;
+    padding: 20px 0 0px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 800px 100%;
+}
+
+.site-branding.has-header {
+    min-height: 67px;
+}
+
+.conf-title {
+    margin: 0 30px;
+    font-size: 64px;
+    color: #fff;
+}
+
+.conf-desc {
+    padding: 10px 0 30px;
+    color: #dfe2e4;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+h2 {
+    line-height: 1.5em;
+}
+
+h4 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #0F425C;
+}
+
+ul {
+    margin-top: -5px;
+}
+
+ul > li {
+    line-height: 1.7em;
+}
+
+td {
+    padding-right: 20px;
+}
+
+.padding {
+    padding: 10px;
+}
+
+hr {
+    border-color: #CCC;
+}
+
+.collapsible {
+    margin: auto;
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: center;
+    outline: none;
+    font-size: 15px;
+}
+
+.active, .collapsible:hover {
+    background-color: #ccc;
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+.twitter-sidebar {
+    -ms-flex: 0 0 300px;
+    flex: 0 0 300px;
+    margin-top: 40px;
+    padding-left: 20px;
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    -ms-flex: 0 0 1140px;
+    flex: 0 0 1140px;
+}
+
+@media only screen and (max-width: 1460px) {
+    .twitter-sidebar {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    .header-logo {
+        display: none;
+    }
+}
+
+.cntd {
+    width: 100%;
+    margin-top: 2.5em;
+}
+
+.note {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.sponsor-logo {
+    margin-left: 20px;
+    margin-right: 20px;
+}

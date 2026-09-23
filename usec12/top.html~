@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>WEIS05</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="keywords here">
+<meta name="description" content="description here">
+<meta name="author" content="myfreetemplates.com">
+<meta name="robots" content="index, follow"> <!-- (robot commands: all, none, index, no index, follow, no follow) -->
+<meta name="revisit-after" content="30 days">
+<meta name="distribution" content="global"> 
+<meta name="rating" content="general">
+<meta name="content-language" content="english">
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body style="margin:5">
+<div align="center">
+  <table width=755 border=0 cellpadding=0 cellspacing=0>
+    <tr>
+    <td width="35"><img src="../workshop/images/topleft.gif" width=35 height=92></td>
+    <td width="216" background="../workshop/images/pixi_topgrey.gif"><a href="http://www.interspire.com"><img src="../workshop/images/toplogo.gif" width=216 height=92 border="0"></a></td>
+      <td width="490" valign="bottom" background="../workshop/images/pixi_topgrey.gif"><img src="../workshop/images/toplogoright.gif" width="490" height="91"></td>
+    <td width="14"><img src="../workshop/images/topright.gif" width=14 height=92></td>
+  </tr>
+  <tr>
+      <td width="35" height="33" valign="top"> <img src="../workshop/images/navleft.gif" width=35 height=33></td>
+      <td colspan=2 background="../workshop/images/navbg.gif" class="menuLink"><div align="center"><a href="http://infosecon.net/index.php" class="menuLink">home</a> 
+          | <a href="http://infosecon.net/workshop/past.php" class="menuLink">past workshops</a> 
+          | <a href="mailto:ljean@ljean.com" class="menuLink">contact us</a><br>
+          <a href="http://www.cl.cam.ac.uk/%7Etwm29/WEIS06/" class="menuLink">WEIS06</a> 
+          | <a href="http://infosecon.net/workshop/index.php" class="menuLink">WEIS05</a> 
+          | <a href="http://infosecon.net/workshop/past.php" class="menuLink">WEIS02-04</a> 
+          | <a href="http://infosecon.net/workshop/books.php" class="menuLink">books</a> 
+          | <a href="http://infosecon.net/workshop/events.php" class="menuLink">related events 
+          </a>| <a href="http://infosecon.net/workshop/bibliography.php" class="menuLink">annotated 
+          bibliography</a> <br>
+        </div></td>
+      <td width="14" valign="top"> <img src="../workshop/images/navright.gif" width=14 height=33></td>
+  </tr>
+</table>
+  
+</div>
+</body>
+</html>
+<!-- Provided by MyFreeTemplates.com -->
