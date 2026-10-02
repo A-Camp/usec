@@ -354,7 +354,7 @@ Panel Q&A 15 minutes</td>
 
 <tr>
 <td class="org-left">12:30 – 14:00</td>
-<td class="org-left"><b>Lunch</b>&nbsp;&nbsp;&nbsp; Location: Pavilion</td>
+<td class="org-left"><b>Lunch</b>&nbsp;&nbsp;&nbsp;Location: Pavilion</td>
 </tr>
 
 
