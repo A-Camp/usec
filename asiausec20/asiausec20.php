@@ -1,3 +1,7 @@
+<!-- Duplicate file header looked like the below -->
+ <!-- <?php
+// header("location: http://www.usablesecurity.net/USEC/asiausec20/");
+?> -->
 <?php 
 $top = "../..";
 $title = "AsiaUSEC 2020";

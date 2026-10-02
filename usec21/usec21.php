@@ -360,7 +360,7 @@ Note that each presentation is of a 20 min length (15min presentation + 5min Q&A
 
 <tr>
 <td class="org-left">12:00 – 13:00</td>
-<td class="org-left"><b>Keynote&nbsp;&nbsp;&nbsp; (Alana Maurushat)</b> (Session Chair: Julian Jang-Jaccard)</td>
+<td class="org-left"><b>Keynote&nbsp;&nbsp;&nbsp;(Alana Maurushat)</b> (Session Chair: Julian Jang-Jaccard)</td>
 </tr>
 
 
